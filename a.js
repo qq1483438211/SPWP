@@ -1,1 +1,1 @@
-setInterval(function(){console.log("Test2");}, 3000);
+setInterval(function(){console.log("Test1");}, 3000);
